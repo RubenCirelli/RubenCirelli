@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a website with my team](https://github.com/RubenCirelli/EA)
 
-- 🌱 I’m currently learning javascript, HTML, CSS **React, javascript, HTML, CSS**
+- 🌱 I’m currently learning **React, javascript, HTML, CSS**
 
 - 📫 How to reach me **cirellirubengiuseppe@gmail.com**
 
