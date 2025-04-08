@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben</h1>
 <h3 align="center">A passionate fullstack developer from Italy</h3>
 
-- 🔭 I’m currently working on [a website with my team](https://github.com/RubenCirelli/EA)
+- 🔭 I’m currently working on [a website with my team]((https://github.com/SkelGames95/MakeYourStore-Project-))
 
 - 🌱 I’m currently learning **React, javascript, HTML, CSS, Typescript, nodejs**
 
